@@ -1,6 +1,6 @@
 # Tree Canopy Datasets
 
-This folder contains tree canopy data from City of Melbourne Open Data Portal.
+This folder contains tree canopy data from City of Melbourne Open Data Portal given by project.
 
 ## Files:
 - tree-canopies-2008-urban-forest.csv
