@@ -32,14 +32,3 @@ project74-urban-forest/
 └── README.md
 ```
 
-## Getting Started
-1. Clone this repository
-2. Download datasets and place in `data/` folder
-3. Install dependencies: `pip install pandas matplotlib seaborn`
-4. Open Jupyter: `jupyter notebook`
-5. Run `notebooks/01_data_exploration.ipynb`
-
-## Progress
-- ✓ Week 1-2: Data acquisition and exploration complete
-
-Last updated: Fri 24 Apr 2026 21:10:58 AEST
